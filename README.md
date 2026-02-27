@@ -3,7 +3,7 @@ With a background in Human Resources and Data Analytics, I’m building my exper
 - Excel (KPI Dashboards)
 - SQL (Data Querying & KPI Calculations)
 - Power BI (Interactive HR Dashboards)
-- Python (Predictive Analytics & Automation)
+- Python (Regression Analysis & Predictive Analytics & Automation)
 
 ---
 
